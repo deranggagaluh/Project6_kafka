@@ -1,3 +1,1 @@
-# E-Commerce Funnel Tracking
-
-Sample of Data Engineering Project.
+# e-commerce funnel tracking
